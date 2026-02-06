@@ -16,6 +16,11 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/12f53de3-f0d7-4cce-a081-9065fecace90" />
+
+
+
+
 ```
 lib/
 ├── componments/    # UI 组件库，纯展示和复用组件
@@ -28,4 +33,5 @@ lib/
 ├── platformUtil/   # 原生通信桥接
 ├── service/        # 业务逻辑层，封装具体业务规则
 └── main.dart       # 应用入口
+
 ```
